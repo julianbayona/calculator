@@ -8,3 +8,6 @@ elif option == 2:
     print(f"el resultado de la resta es: {number_one - number_two}" )
 elif option == 3:
     print(f"el resultado de la multiplicacion es: {number_one * number_two}" )
+elif option == 4:
+    print(f"el resultado de la divicion es: {number_one / number_two}" )
+
