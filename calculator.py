@@ -11,5 +11,5 @@ elif option == 3:
 elif option == 4:
     print(f"el resultado de la divicion es: {number_one / number_two}" )
 elif option == 5:
-    print(f"el resultado de la potenciacion es: {number_one ** number_two}" )
+    print(f"el resultado de la potenciacion es : {number_one ** number_two}" )
 
