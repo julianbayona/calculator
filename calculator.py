@@ -1,3 +1,4 @@
+import math
 number_one = int(input("digite el numero: "))
 number_two = int(input("digite el numero: "))
 option = int(input("1. sumar\n2. restar\n3. multiplicar\n4. dividir\n5. potencia"))
@@ -12,4 +13,6 @@ elif option == 4:
     print(f"el resultado de la divicion es: {number_one / number_two}" )
 elif option == 5:
     print(f"el resultado de la potenciacion es: {number_one ** number_two}" )
+elif option ==6:
+    print(f"el resultado de la raiz es: {math.sqrt(number_one)}")
 
