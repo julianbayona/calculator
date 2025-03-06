@@ -14,4 +14,10 @@ elif option == 5:
     print(f"el resultado de la potenciacion es: {number_one ** number_two}" )
 
 #com 1#
+<<<<<<< HEAD
+=======
+#com 2#
+#com 3#
+
+>>>>>>> 00bff1e (com 3)
 
